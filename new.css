@@ -20,7 +20,7 @@ html{
     align-items: center;
 }
 
-.img-ill>img{
+.img-ill img{
     position: relative;
     width: 500px;
 }
